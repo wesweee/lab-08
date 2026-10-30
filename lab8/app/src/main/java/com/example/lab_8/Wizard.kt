@@ -17,7 +17,7 @@ class Wizard(val name: String, var mana: Int, var spellPower: Int) {
             }
             else -> {
                 return 0 // invalid spell
-            }
+            } // Test comment
         }
     }
 }
